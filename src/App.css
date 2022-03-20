@@ -1,0 +1,11 @@
+
+.root {
+  margin: 0 auto;
+}
+.control {
+    display: flex;
+  }
+  
+  .table {
+    margin: 10px 0;
+  }
