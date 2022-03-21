@@ -47,7 +47,7 @@ class App extends React.Component {
     return(
       <div>
 
-        <div>
+        <div className="title">
           <h1>Список дел</h1>
         </div>
 

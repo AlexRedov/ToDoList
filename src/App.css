@@ -1,11 +1,10 @@
-
-.root {
-  margin: 0 auto;
+.title {
+  text-align: center;
 }
 .control {
     display: flex;
   }
   
-  .table {
+.table {
     margin: 10px 0;
   }

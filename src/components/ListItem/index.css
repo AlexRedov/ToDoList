@@ -1,14 +1,13 @@
 .item {
     display: flex;
     justify-content: space-between;
-    width: 300px;
     height: 35px;
-    border: 3px solid goldenrod;
+    border: 2px solid goldenrod;
     font-size: 15px;
   }
   
   .item__text {
-    color: red;
+    padding: 5px;
   }
   
   .item__btn {
